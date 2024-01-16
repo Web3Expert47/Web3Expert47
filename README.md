@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/LrX5TcV/home1.png" align="center" style="width: 100%" />
 </div>  
 
-### Hi there 👋 I am Justin Wang.
+### Hi there 👋 I am Tanaka Yuuto.
 - Blockchain Developer
 - Fullstack Developer
 - DevOps
@@ -54,7 +54,3 @@
       - Github: https://github.com/Ethlizards-NFT
       - Product: https://www.ethlizards.io
       - Stack: Nextjs
-
-🔗Connect
--------------------------------------
--  https://t.me/Justin_W47
