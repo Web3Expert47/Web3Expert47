@@ -2,6 +2,8 @@
 <img src="https://i.ibb.co/LrX5TcV/home1.png" align="center" style="width: 100%" />
 </div>  
 
+[![DevCard](https://github.com/Web3Expert47/Web3Expert47/actions/workflows/main.yml/badge.svg)](https://github.com/Web3Expert47/Web3Expert47/actions/workflows/main.yml)
+
 ### Hi there 👋 I am Alex.
 - Blockchain Developer
 - Fullstack Developer
