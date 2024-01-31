@@ -1,9 +1,6 @@
 <div align="center">
 <img src="https://i.ibb.co/LrX5TcV/home1.png" align="center" style="width: 100%" />
 </div>  
-<img src="https://api.daily.dev/devcards/a102909509854d318d692aa5b4e3462b.png?r=a7x" width="400" alt="Alex's Dev Card"/>
-
-
 [![DevCard](https://github.com/Web3Expert47/Web3Expert47/actions/workflows/main.yml/badge.svg)](https://github.com/Web3Expert47/Web3Expert47/actions/workflows/main.yml)
 
 ### Hi there 👋 I am Alex.
