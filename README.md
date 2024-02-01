@@ -12,16 +12,6 @@
 - With 7 years of experience in software development and engineering, I have a proven track record of delivering high-quality solutions that meet business requirements while adhering to best practices and industry standards.
 - Seeking a challenging role in a dynamic organization where I can leverage my skills and experience to drive business success.
 
-👍Reference
--------------------------------------
- - Toby Meller(CEO at Redkite)
-      - https://www.linkedin.com/in/toby-meller-84a3744a
-      - Telegram:  https://t.me/toby_meller
- - Faisal Alferdos(Founder at Sahim)
-      - https://www.linkedin.com/in/alferdos/
-      - whatsapp: +966544111169
-      - faisal@nearmotion.com
-
 🏆Portfolio
 -------------------------------------
 - 🔒Blockchain & Web3
