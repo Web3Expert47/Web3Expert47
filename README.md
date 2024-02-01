@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/LrX5TcV/home1.png" align="center" style="width: 100%" />
 </div>  
 
-### Hi there 👋 I am Alex.
+### Hi there 👋 I am Justin.
 - Blockchain Developer
 - Fullstack Developer
 - DevOps
